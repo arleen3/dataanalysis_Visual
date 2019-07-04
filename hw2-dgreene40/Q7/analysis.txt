@@ -1,0 +1,10 @@
+1.Ease to Develop 
+	Excel: Very easy to use and it has been around for a while.
+	Tableau: This tool is new to me but I liked it and found a little bit more 			 difficult than Excel.
+	Python: Many available libraries at our disposition. I can program better in 	 		Python than in Javascript.
+	D3: You can do amazing things with this tool but there is a learning curve, 			especially if you don't know Javascript. 
+2.Ease to maintain the visualization
+	Excel: This is the easiest tool to maintain the visualizations but it is 			not the most diverse nor versatil. 
+	Tableau: More robust than Excel and I felt it is not as tedious as D3 to maintain.
+	D3: 	It allows to change of data for domains and new graph rendering once you 		learn D3 more in depth.
+	Python: Slightly more difficult than D3 but at least no Javascript is required to 		create visualizations.
